@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+}
+.footerbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+  
+  .customeradd input{
+    width: 90%;
+  }
+
+  .footet{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  .customeradd #close{
+    background-color: red;
+    margin: 50px 130px;
+    width: 150px;
+  }

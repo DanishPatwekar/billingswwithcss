@@ -1,0 +1,42 @@
+/* CustomerDashboard.css */
+
+.customer-dashboard {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .customer-dashboard h1 {
+    color: #333;
+  }
+  
+  .customer-dashboard h2 {
+    color: #555;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .customer-dashboard .cart {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .customer-dashboard button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .customer-dashboard button:hover {
+    background-color: #0056b3;
+  }
+  
+  .customer-dashboard input {
+    margin: 5px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
